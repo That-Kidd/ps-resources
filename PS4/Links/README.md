@@ -18,3 +18,5 @@
 ## PC Tools
 
 [WinSCP FTP Client](https://winscp.net/eng/index.php)
+
+[PS4PKG Viewer](https://sites.google.com/site/theleecherman/ps4pkgviewer)
