@@ -8,7 +8,7 @@
       - Each profile has an id. The default id is `0000000000000000`. Change that to your Account ID
       - [How to get your Account ID](https://github.com/That-Kidd/ps-resources/blob/main/PS4/Account%20ID/README.md#how-to-get-the-account-id)
       
-      ![PS4 Acc Web Activator](https://cdn.discordapp.com/attachments/999734831195893911/1019338771411513445/20220913142938.jpg)
+      ![PS4 Acc Web Activator](https://cdn.discordapp.com/attachments/999734831195893911/1019343058569023528/20220913142938.jpg)
       
   3. Input the ID you want to set it too, and click set and activate. Close the browser restart your PS4 to force the ID to save.
   4. Put the save on your usb in `PS4/SAVEDATA/0000000000000000/` and open Apollo. Click `USB Saves`.
