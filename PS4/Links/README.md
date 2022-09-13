@@ -20,3 +20,5 @@
 [WinSCP FTP Client](https://winscp.net/eng/index.php)
 
 [PS4PKG Viewer](https://sites.google.com/site/theleecherman/ps4pkgviewer)
+
+[Save Resigner](https://gist.github.com/Zhaxxy/bd2c3667e815c5619b73af56aa58f407)
