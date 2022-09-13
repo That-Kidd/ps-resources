@@ -5,7 +5,9 @@
   **You need to have Apollo save tool installed!**
   1. Jailbreak your system
   2. Open your browser and head to `https://sleirsgoevy.github.io/ps4-web-activator/900.html`
-      - Each profile has an id. The default id is `0000000000000000`. This is what you want to change to your accounts ID.
+      - Each profile has an id. The default id is `0000000000000000`. Change that to your Account ID
+      - [How to get your Account ID](https://github.com/That-Kidd/ps-resources/blob/main/PS4/Account%20ID/README.md#how-to-get-the-account-id)
+      
       ![PS4 Acc Web Activator](https://cdn.discordapp.com/attachments/999734831195893911/1019274327960600659/20220913113658.jpg)
       
   3. Input the ID you want to set it too, and click set and activate. Close the browser restart your PS4 to force the ID to save.
