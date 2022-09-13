@@ -1,5 +1,5 @@
 # How to resign saves using a jailbroken ps4 (1 Method)
-<sub> This guide is written using a JB PS4 on 9.00. All links will be at the [bottom](https://github.com/That-Kidd/ps-resources/blob/main/resign.md#links) ! </sub>
+<sub> This guide is written using a JB PS4 on 9.00. All links will be at the [bottom]([https://github.com/That-Kidd/ps-resources/blob/main/resign.md#links](https://github.com/That-Kidd/ps-resources/blob/main/PS4/Resign/README.md#links)) ! </sub>
 
 ## Method 1. Offline account activate & Apollo save tool
   **You need to have Apollo save tool installed!**
