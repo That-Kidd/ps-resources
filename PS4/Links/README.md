@@ -2,6 +2,9 @@
 <sub> Contains links to homebrew and other useful tools </sub>
 
 ## Homebrew
+[Homebrew App Store](https://github.com/LightningMods/PS4-Store)
+
+[PS4 Tools](https://pkg-zone.com/details/XDPX20004)
 
 [Apollo Save Tool](https://github.com/bucanero/apollo-ps4/releases/tag/v1.2.0)
 
