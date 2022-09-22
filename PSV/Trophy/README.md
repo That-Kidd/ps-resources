@@ -9,7 +9,7 @@
   - [Kidd's Sorted Sets](#) 
 
 2. Then connect to your vita via ftp using vita shell. 
-3. Head over to `ur0/user/00/trophy` and delete all the folders inside.
+3. Head over to `ur0:user/00/trophy` and delete all the folders inside.
 4. Copy the `conf` and `data` folder from the trophy sets you downloaded earlier
 > Please note that the `data` and `conf` are in the zips
 5. Press `start` and click `restart vitashell`
