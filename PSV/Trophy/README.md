@@ -6,7 +6,6 @@
 
 1. Download completed trophy sets.
   - [Javier422#4353's Vita Folders ](https://www.mediafire.com/file/rzcyyzgl6b7n8ny/2293+VITA+FOLDERS+BY+JAVIER422.rar/file)
-  - [Kidd's Sorted Sets](#) 
 
 2. Then connect to your vita via ftp using vita shell. 
 3. Head over to `ur0:user/00/trophy` and delete all the folders inside.
