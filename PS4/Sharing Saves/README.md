@@ -1,0 +1,13 @@
+# Sharing Your saves
+
+1. Copy your save to usb
+2. Zip the `CUSAXXXXX` folder
+3. Upload to a file hosting site
+4. Share the link!
+
+## File hosting sites I recommend:
+  - [Mediafire](https://www.mediafire.com/)
+  - [Google Drive](https://www.google.com/drive/)
+  - [Mega](https://mega.io/)
+  - [WeTransfer](https://wetransfer.com/)
+  - [FastUpload](https://fastupload.io/)
