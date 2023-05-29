@@ -11,7 +11,7 @@
   3. Input the ID you want to set it too, and click set and activate. Close the browser restart your PS4 to force the ID to save.
       - [How to get your Account ID](https://github.com/That-Kidd/ps-resources/blob/main/PS4/Account%20ID/README.md#how-to-get-the-account-id)
 
- ***Congrats you have successfully offline activated your profile with your psn.***
+ ***Congrats you have successfully activated your offline profile with your psn.***
  
 
 [PS4 Offline Account Activator](https://github.com/charlyzard/PS4OfflineAccountActivator)
