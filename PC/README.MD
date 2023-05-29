@@ -1,0 +1,1 @@
+# This repo covers how to do basic computer operations. 
