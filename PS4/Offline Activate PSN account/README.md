@@ -6,7 +6,7 @@
   2. Open your browser and head to `https://sleirsgoevy.github.io/ps4-web-activator/900.html`
       - Each profile has an id. The default id is `0000000000000000`. 
       
-      ![PS4 Acc Web Activator](https://cdn.discordapp.com/attachments/999734831195893911/1019343058569023528/20220913142938.jpg)
+      ![PS4 Acc Web Activator](../../crc/pics/offline_acc_activation.png)
       
   3. Input the ID you want to set it too, and click set and activate. Close the browser restart your PS4 to force the ID to save.
       - [How to get your Account ID](https://github.com/That-Kidd/ps-resources/blob/main/PS4/Account%20ID/README.md#how-to-get-the-account-id)

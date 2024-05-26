@@ -12,7 +12,7 @@
 4. You should see a folder named `XXXXXXXXXXXXXXXX` 16-digit long. This is the account id. 
     - `4ef2ab66ddc8467b` is an example of an account id.
   
-![Example of an Account ID](https://cdn.discordapp.com/attachments/1019440961169928323/1019443911653072978/unknown.png)
+![Example of an Account ID](../../crc/pics/acc_idfromconsole.PNG)
 
 `2ec30469d34ff737` is the Account ID pictured
 

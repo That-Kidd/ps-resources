@@ -7,9 +7,9 @@
   2. Offline activate your profile with your psn. You can follow this [guide](https://github.com/That-Kidd/ps-resources/blob/main/PS4/Offline%20Activate%20PSN%20account/README.md).
   4. Put the save on your usb in `PS4/SAVEDATA/0000000000000000/` and open Apollo. Click `USB Saves`.
   5. Find the save and click copy to HDD and click yes to resign.
-     ![Copy to HDD](https://cdn.discordapp.com/attachments/1019440961169928323/1019441126169649282/Apollo_Save_Tool_20220913224658.jpg)
+     ![Copy to HDD](../../crc/pics/apollo_1.jpg)
      
-     ![Resign](https://cdn.discordapp.com/attachments/1019440961169928323/1019441126639419422/Apollo_Save_Tool_20220913224708.jpg)
+     ![Resign](../../crc/pics/apollo_2.jpg)
 
  ***Congrats you have successfully resigned a save file***
  
