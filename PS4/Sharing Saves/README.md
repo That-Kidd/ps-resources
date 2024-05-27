@@ -5,6 +5,8 @@
 3. Upload to a file hosting site
 4. Share the link!
 
+![Example of a PS4 save](../../crc/pics/ps4_save.jpg)
+
 ## File hosting sites I recommend:
   - [Mediafire](https://www.mediafire.com/)
   - [Google Drive](https://www.google.com/drive/)
